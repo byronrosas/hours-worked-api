@@ -1,6 +1,6 @@
 
 # hours-worked-api
-Small project to control employee hours, applying clean architecture in node.js
+Small project to control employee hours-payment, applying clean architecture in node.js
 
 ### Install🔧
 
@@ -32,15 +32,20 @@ for API rest and UI
     npm help
 
 ## How to use
-*for browser (API REST)*
+#### *for browser (API REST)*
   http://localhost:3000/api/test.txt
 
-
+![UI](screenshoots/capturaREST.png?raw=true "Title")
   
-*for browser (UI)*
+#### *for browser (UI)*
 http://localhost:3000/test.txt
 
-*for CLI (example)*
+![UI](screenshoots/capturaUI.png?raw=true "Title")
+
+#### *for CLI (example)*
+
+![CLI](screenshoots/capturaCLI.png?raw=true "Title")
+
 ## Developed with 🛠️
  - Typescript
  - Node.js
@@ -60,3 +65,5 @@ This project is built based on the clean architecture of Robert C. Martin.
 - Detail layer:  
 	- Repositories:  In this case only the FileRepository was used  
 	- Views:  CLIPresenter, RESTPresenter (rest and ui)
+
+![CleanArchitecture Robert C. Martin](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)Clean Architecture - Robert C. Martin
