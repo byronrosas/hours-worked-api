@@ -35,12 +35,12 @@ for API rest and UI
 #### *for browser (API REST)*
   http://localhost:3000/api/test.txt
 
-![REST](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaREST.png?raw=true")
+![REST](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaREST.PNG?raw=true")
   
 #### *for browser (UI)*
 http://localhost:3000/test.txt
 
-![UI](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaUI.png?raw=true)
+![UI](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaUI.PNG?raw=true)
 
 #### *for CLI (example)*
 
