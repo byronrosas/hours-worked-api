@@ -44,7 +44,7 @@ http://localhost:3000/test.txt
 
 #### *for CLI (example)*
 
-![CLI](./screenshoots/capturaCLI.png?raw=true "Title")
+![CLI](https://github.com/byronrosas/hours-worked-api/blob/main/capturaCLI.png?raw=true)
 
 ## Developed with 🛠️
  - Typescript V4.1.3
