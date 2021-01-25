@@ -35,16 +35,16 @@ for API rest and UI
 #### *for browser (API REST)*
   http://localhost:3000/api/test.txt
 
-![UI](./screenshoots/capturaREST.png?raw=true "Title")
+![REST](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaREST.png?raw=true")
   
 #### *for browser (UI)*
 http://localhost:3000/test.txt
 
-![UI](./screenshoots/capturaUI.png?raw=true "Title")
+![UI](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaUI.png?raw=true)
 
 #### *for CLI (example)*
 
-![CLI](https://github.com/byronrosas/hours-worked-api/blob/main/capturaCLI.png?raw=true)
+![CLI](https://github.com/byronrosas/hours-worked-api/blob/main/screenshoots/capturaCLI.PNG?raw=true)
 
 ## Developed with 🛠️
  - Typescript V4.1.3
