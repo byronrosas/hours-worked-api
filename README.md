@@ -49,7 +49,7 @@ http://localhost:3000/test.txt
 ## Developed with 🛠️
  - Typescript V4.1.3
  - Node.js v12.18.1
-## Methodology 🛠️
+## Methodology and Architecture 🛠️
 This project is built based on the clean architecture of Robert C. Martin.  
  - Starting by defining the domain layer:
 	 - Entities:
