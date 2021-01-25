@@ -47,8 +47,8 @@ http://localhost:3000/test.txt
 ![CLI](screenshoots/capturaCLI.png?raw=true "Title")
 
 ## Developed with 🛠️
- - Typescript
- - Node.js
+ - Typescript V4.1.3
+ - Node.js v12.18.1
 ## Methodology 🛠️
 This project is built based on the clean architecture of Robert C. Martin.  
  - Starting by defining the domain layer:
