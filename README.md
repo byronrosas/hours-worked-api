@@ -35,16 +35,16 @@ for API rest and UI
 #### *for browser (API REST)*
   http://localhost:3000/api/test.txt
 
-![UI](screenshoots/capturaREST.png?raw=true "Title")
+![UI](./screenshoots/capturaREST.png?raw=true "Title")
   
 #### *for browser (UI)*
 http://localhost:3000/test.txt
 
-![UI](screenshoots/capturaUI.png?raw=true "Title")
+![UI](./screenshoots/capturaUI.png?raw=true "Title")
 
 #### *for CLI (example)*
 
-![CLI](screenshoots/capturaCLI.png?raw=true "Title")
+![CLI](./screenshoots/capturaCLI.png?raw=true "Title")
 
 ## Developed with 🛠️
  - Typescript V4.1.3
